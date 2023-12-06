@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>org.eclipse.jetty</groupId>
   <artifactId>jetty-parent-pom</artifactId>
-  <version>1.8-parent-SNAPSHOT</version>
+  <version>1-SNAPSHOT</version>
   <packaging>pom</packaging>
   <name>Jetty Parent POM</name>
   <description>The Eclipse Jetty Parent POM</description>
