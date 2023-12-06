@@ -16,7 +16,7 @@ If you need some special trick such build should use 11 but I need 8 as produced
 - `<jdk.version.minimum>11</jdk.version.minimum>`
 - `<maven.compiler.release>8</maven.compiler.release>`
 
-There is no need to configure target and release as it will be ignored by compiler because release param has been configured (you can of course but it is just ignored)
+In this last case there is no real need to configure/override target and release as it will be ignored by compiler because release param has been configured (you can of course if you like but it is just ignored)
 
 
 # Maven setup
